@@ -9,7 +9,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	padding-top: 100px;
+	padding-top: 60px;
 }
 
 .dataBox {
@@ -76,7 +76,6 @@ body {
 }
 
 .qrcode > img {
-	border: solid 10px #fff;
 	background-color: #fff;
 }
 
